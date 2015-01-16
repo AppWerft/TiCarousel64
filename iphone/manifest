@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+architectures: armv7 arm64 i386 x86_64
+description: TiCarousel64
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2015 by Your Company
+
+# these should not be edited
+name: TiCarousel64
+moduleid: de.appwerft.ticarousel
+guid: d3fa9911-ed28-4b97-8906-69b2264dc912
+platform: iphone
+minsdk: 3.5.0.GA
